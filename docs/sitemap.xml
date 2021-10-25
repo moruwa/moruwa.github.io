@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://moruwa.net/news/</loc>
+    <lastmod>2021-10-25T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://moruwa.net/</loc>
+    <lastmod>2021-10-25T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://moruwa.net/news/20211025/1/</loc>
+    <lastmod>2021-10-25T00:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://moruwa.net/about/</loc>
   </url><url>
     <loc>https://moruwa.net/contact/</loc>
@@ -14,9 +23,5 @@
     <loc>https://moruwa.net/tags/</loc>
   </url><url>
     <loc>https://moruwa.net/works/</loc>
-  </url><url>
-    <loc>https://moruwa.net/news/</loc>
-  </url><url>
-    <loc>https://moruwa.net/</loc>
   </url>
 </urlset>
